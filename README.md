@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arnaud
+- 👀 I’m interested in web-coding.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: Arnaud#0865 in Discord.
